@@ -1,0 +1,5 @@
+# All changes to pr.bitcoinix.net need review from a maintainer.
+#
+# This only takes effect with a ruleset on main that requires review from
+# code owners.
+* @seberm @prusnak
